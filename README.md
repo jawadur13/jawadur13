@@ -2,11 +2,14 @@
 
 ## MD JAWADUR RAFID
 
-Web developer from Bangladesh. I mostly write **TypeScript**, and I build websites and web apps with JavaScript, Astro and plain HTML/CSS.
+**Jr. Software Engineer @ Databrandix** · Dhaka, Bangladesh
 
-- **Stack:** TypeScript · JavaScript · Astro · HTML · CSS
-- **Website:** [jawadurrafid.com](http://jawadurrafid.com/)
-- **Email:** [jawadurrafidrafid@gmail.com](mailto:jawadurrafidrafid@gmail.com)
+Building modern web applications and scalable software systems with a focus on clean architecture and intuitive user experiences.
+
+- **Stack:** ASP.NET Core / MVC · Spring Boot · Next.js · React · Entity Framework Core · PostgreSQL · MySQL
+- **Also:** C · C++ · Java · C# · JavaScript · TypeScript · PHP · Tailwind CSS
+- **Website:** [jawadurrafid.com](https://www.jawadurrafid.com/)
+- **Email:** [contact@jawadurrafid.com](mailto:contact@jawadurrafid.com)
 
 <br clear="right" />
 
